@@ -5,7 +5,7 @@
     Hi there 👋 I'm Lupita Macedo 
   </h1>
 </div>
-<img src="https://drive.google.com/file/d/1BUXd5ES-Amu0Snqrk3p4kr_FYX-dUbeV/view?usp=sharing">
+<img src= "https://i.imgur.com/W7dMKXu.jpeg">
 
 ##About me
 - 🎮🎮 unity game developer
