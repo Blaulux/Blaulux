@@ -52,13 +52,11 @@
   </td>
   
  </tr>
-
-</table>
-</div>
-<br>
-
-<table>
-  <tr>
+ 
+<!-- 
+Segunda fila
+-->
+ <tr>
   <td width="50%">
    <br>
    <h3 align="center">The Lullaby of Life</h3>
@@ -74,13 +72,14 @@
     </p>
    </div>
   </td>
-
-   
  </tr>
- 
+
 </table>
 </div>
 <br>
+
+ 
+
 
 
 <!--
