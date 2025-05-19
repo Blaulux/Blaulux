@@ -24,7 +24,7 @@
    <h3 align="center">Mafia Kings</h3>
    <div align ="center">
      <a href="https://play.google.com/store/apps/details?id=com.byaliens.mafiakings&pcampaignid=web_share" target="_blank">
-       <img src="proyectos/MK.jpg" width="480" alt="Mafia kings image" >
+       <img src="proyectos/MK.png" width="480" alt="Mafia kings image" >
      </a>
     <br>
     <p>
@@ -40,7 +40,7 @@
    <h3 align="center">I'm not Jelly</h3>
    <div align ="center">
      <a href="https://store.steampowered.com/app/1722820/Im_Not_Jelly/" target="_blank">
-       <img src="proyectos/INJ.jpg" width="480" alt="I'm not Jelly image" >
+       <img src="proyectos/IMJ.png" width="480" alt="I'm not Jelly image" >
      </a>
     <br>
     <p>
@@ -60,10 +60,11 @@
 <table>
   <tr>
   <td width="50%">
+   <br>
    <h3 align="center">The Lullaby of Life</h3>
    <div align ="center">
      <a href="https://store.steampowered.com/app/2493180/The_Lullaby_of_Life/" target="_blank">
-       <img src="proyectos/TLOL.jpg" width="480" alt="The Lullaby of Life image" >
+       <img src="proyectos/TLOL_1024.jpg" width="480" alt="The Lullaby of Life image" >
      </a>
     <br>
     <p>
