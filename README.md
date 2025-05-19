@@ -8,8 +8,10 @@
 <img src= "Portadas_Lupita.jpg">
 
 ##About me
-- 🎮🎮 unity game developer
-- 
+- 🎮 Unity developer since 2021  
+- 🧠 Focused on gameplay logic, smooth experiences & performance  
+- 🐞 Bug fixer & system optimizer  
+- 🌱 Always learning something new
 
 <!--
 **Blaulux/Blaulux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
