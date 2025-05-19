@@ -36,7 +36,7 @@
    <h3 align="center">I'm not Jelly</h3>
    <div align ="center">
      <a href="https://store.steampowered.com/app/1722820/Im_Not_Jelly/" target="blank">
-       <img src="proyectos/IMJ.jpg" width="400" alt="I'm not Jelly image" >
+       <img src="proyectos/INJ.jpg" width="400" alt="I'm not Jelly image" >
      </a>
     <br>
     <p>
@@ -51,7 +51,7 @@
    <h3 align="center">The Lullaby of Life</h3>
    <div align ="center">
      <a href="https://store.steampowered.com/app/2493180/The_Lullaby_of_Life/" target="blank">
-       <img src="proyectos/TOF.jpg" width="400" alt="The Lullaby of Life image" >
+       <img src="proyectos/TLOL.jpg" width="400" alt="The Lullaby of Life image" >
      </a>
     <br>
     <p>
