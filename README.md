@@ -3,7 +3,7 @@
   <h1>Hi there 👋 I'm Lupita Macedo</h1>
 </div>
 
-<img src="Portadas_Lupita.jpg" width="100%" alt="Lupita Macedo - Game Programmer">
+<img src="proyectos/Portadas_Lupita.jpg" width="100%" alt="Lupita Macedo - Game Programmer">
 
 <br>
 
