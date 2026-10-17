@@ -82,7 +82,7 @@
       <h3 align="center">Testimony: Metal Graveyard</h3>
       <div align="center">
         <a href="https://store.steampowered.com/app/4064000/Testimony__Metal_Graveyard/">
-          <img src="proyectos/TMG.png" width="100%" alt="Testimony: Metal Graveyard">
+          <img src="proyectos/TMG.jpg" width="100%" alt="Testimony: Metal Graveyard">
         </a>
         <p><strong>Game Programmer</strong></p>
         <p>
@@ -103,7 +103,7 @@
       <h3 align="center">Testimony: Night Underground</h3>
       <div align="center">
         <a href="https://store.steampowered.com/app/4352290/Testimony__Night_Underground/">
-          <img src="proyectos/TNU.png" width="100%" alt="Testimony: Night Underground">
+          <img src="proyectos/TNU.jpg" width="100%" alt="Testimony: Night Underground">
         </a>
         <p><strong>Main Programmer & Game Producer</strong></p>
         <p>
@@ -119,7 +119,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Upcoming Testimony Game</h3>
       <div align="center">
-        <img src="proyectos/UPCOMING.png" width="100%" alt="Upcoming Testimony Game">
+        <img src="proyectos/UPCOMING.jpg" width="100%" alt="Upcoming Testimony Game">
         <p><strong>Main Programmer & Game Producer</strong></p>
         <p>
           Developed gameplay systems and NPC/enemy AI,
