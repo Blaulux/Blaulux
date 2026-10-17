@@ -119,7 +119,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Upcoming Testimony Game</h3>
       <div align="center">
-        <img src="proyectos/UPCOMING.jpg" width="100%" alt="Upcoming Testimony Game">
+        <img src="proyectos/UPCOMING.png" width="100%" alt="Upcoming Testimony Game">
         <p><strong>Main Programmer & Game Producer</strong></p>
         <p>
           Developed gameplay systems and NPC/enemy AI,
