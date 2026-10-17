@@ -21,7 +21,7 @@
 ## Games I've Worked On
 
 <table>
-  <!-- Row 1 -->
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Mafia Kings</h3>
@@ -40,7 +40,6 @@
         </a>
       </div>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">I'm Not Jelly</h3>
       <div align="center">
@@ -79,7 +78,6 @@
         </a>
       </div>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">Testimony: Metal Graveyard</h3>
       <div align="center">
@@ -118,7 +116,6 @@
         </a>
       </div>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">Upcoming Testimony Game</h3>
       <div align="center">
