@@ -76,6 +76,9 @@
         <a href="https://store.steampowered.com/app/2493180/The_Lullaby_of_Life/">
           <img src="https://img.shields.io/badge/steam-1b2838" alt="Steam">
         </a>
+        <a href="https://play.google.com/store/apps/details?id=com.onesimplegame.lullabyoflife&pcampaignid=web_share">
+          <img src="https://img.shields.io/badge/play%20store-8A2BE2" alt="Play Store">
+        </a>
       </div>
     </td>
     <td width="50%" valign="top">
